@@ -33,18 +33,22 @@ export default function WarpShaderHero() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-4">
   <a
-    href="https://s7watches.co.uk/collections/all"
-    className="px-8 py-4 bg-white/20 backdrop-blur-sm border border-white/30 rounded-full text-white font-medium hover:bg-white/30 transition-all duration-300 hover:scale-105"
-  >
-    Shop now
-  </a>
+  href="https://s7watches.co.uk/collections/all"
+  target="_top"
+  rel="noopener noreferrer"
+  className="px-8 py-4 bg-white/20 backdrop-blur-sm border border-white/30 rounded-full text-white font-medium hover:bg-white/30 transition-all duration-300 hover:scale-105"
+>
+  Shop now
+</a>
 
-  <a
-    href="https://s7watches.co.uk/collections"
-    className="px-8 py-4 bg-white rounded-full text-gray-800 font-medium hover:scale-105 transition-transform duration-300"
-  >
-    View collections
-  </a>
+<a
+  href="https://s7watches.co.uk/collections"
+  target="_top"
+  rel="noopener noreferrer"
+  className="px-8 py-4 bg-white rounded-full text-gray-800 font-medium hover:scale-105 transition-transform duration-300"
+>
+  View collections
+</a>
 </div>
         </div>
       </div>
